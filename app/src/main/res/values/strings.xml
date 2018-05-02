@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Explore Resita</string>
+    <string name="tab_attractions">Top Attractions</string>
+    <string name="tab_restaurants">Restaurants</string>
+    <string name="tab_events">Events</string>
+    <string name="tab_places">Public Places</string>
+    <string name="item_details">Details</string>
+
+    <!--Attractions Locations-->
+    <string name="at1_title">Muzeul Locomotivelor cu Abur</string>
+    <string name="at1_desc">The museum is the main turistic attraction of the city. Visitors have the occasion to see the only steam locomotive museum in the world.The collection contains 16 steam locomotives, which are displayed in open air, no entrance fee is required.</string>
+
+    <string name="at2_title">Muzeul Banatului Montan</string>
+    <string name="at2_desc">To get to know the true local history it is important to visit the Banat Museum. Here you will discover an impressive heritage of 76 thousand pieces or exhibits from several fields of activity: art, archeology, ethnography, numismatics, industrial history and mineralogy. The museum was founded in 1957.</string>
+
+    <string name="at3_title">Palatul Cultural și statuia lui Ion Românuv</string>
+    <string name="at3_desc">The Reşiţa Cultural Palace has a great architectural value throughout the Banat area. It is said to be the only Brâncovenian building in Caraş-Severin. This architectural jewel was built between 1928 and 1929. In front of the Cultural Palace is the statue of Ion Românu, an important musician of Banat.</string>
+
+    <string name="at4_title">Fântâna cinetică</string>
+    <string name="at4_desc">It is one of the symbols of the city. The kinetic fountain was built in the center of the city by the sculptor Constantin Lucaci. It really offers a show of lights during the evening and the place seems to be a point of attraction for the city\'s inhabitants. The fountain has a height of 7 meters and was built in 1984.</string>
+
+    <string name="at5_title">Sala polivalentă</string>
+    <string name="at5_desc">Next to the Kinetic Fountain is the Polivalent Hall, a building with a capacity of approximately 1700 seats. Painted in white and blue, the building can be called a city alert because it has a clock that announces the exact time.</string>
+
+    <string name="at6_title">Funicularul</string>
+    <string name="at6_desc">Above the Customs Bridge you will notice a huge cable car. It is inoperable, and at first you would say it\'s like falling out. How beautiful would Resita be if he would arrange this funicular for tourism purposes. Turn it into a pedestrian bridge, and residents and tourists will enjoy the panorama of the city.</string>
+
+    <string name="at7_title">Lacul Secu</string>
+    <string name="at7_desc">Locals who are looking for stories such as stories where they can relax at least a weekend are invited to Lake Secu. It is about seven kilometers away from Resita, being a reservoir built in the 1960s for the city\'s water supply. Now, Lake Secu has become an important place for recreation, most of the tourists who come to this wonderful place come to practice water sports, beaches or to fish.</string>
+
+    <!--Restaurants Locations-->
+    <string name="re1_title">Motif - Sugar, Spice and Everything Nice</string>
+    <string name="re1_desc">Spend your friday with us and your best friends, have fun, grab a snack and enjoy a drink.
+SPICY FRIDAY @ Motif - Sugar,spice and Everything nice
+LINE UP: BRAIESKU
+FREE ENTRY.... FREE SHOTS BEFORE MIDNIGHT
+Party all night long</string>
+
+    <string name="re2_title">Capriccio</string>
+    <string name="re2_desc">Their menu ranges from a wide variety of pastas, pizzas, calzones, burgers, sandwiches, and more.</string>
+
+    <string name="re3_title">Restaurant 800</string>
+    <string name="re3_desc">Restaurant 800 offers a range of delicious Romanian food to their customers. They regularly serve Breakfast, Lunch and Dinner at a great price, and they also offer food especially catered to senior citizens and to the health conscious.</string>
+
+    <string name="re4_title">Restaurat Rogge</string>
+    <string name="re4_desc">The hotel\'s cuisine lures you with the tastiest and refined menus. Our chefs have prepared a selection of international and traditional dishes to give a unique taste to your trip to the small mountain town of Resita. Let yourself be conquered by elegance, multiculturalism and refinement!</string>
+
+    <!--Event Locations-->
+    <string name="ev1_title">AlerGand la Padure</string>
+    <string name="ev1_desc">Annual Semi marathon event + 20km and crossroads + 10km in Resita with level differences between 500m and 1000m with a time limit of 3 resectivals 5 hours with revitalization points and control. The event is addressed to all age groups.v</string>
+
+    <string name="ev2_title">Alaiul Primăverii</string>
+    <string name="ev2_desc">The event reached this year\'s 37th edition and will bring together 40 folk groups and folk ensembles from the county, including all national minorities.</string>
+
+    <string name="ev3_title">Festivalul de Jazz</string>
+    <string name="ev3_desc">The most popular jazz festival in Romania, "Garana Jazz Festival XXII", will take place between July 12 and 15 and will bring to the audience the big names of the genre. Garana, the mountain village, will host four days of concerts and musical experiences dedicated to jazz enthusiasts. The concerts will take place on three scenes: in Poiana Lupului, the Catholic Church in the village of Valiug and La Rascruce Inn, the place where the first edition of the festival took place 22 years ago.</string>
+
+    <string name="ev4_title">Festivalul Internaţional de Teatru „Scena ca o stradă”</string>
+    <string name="ev4_desc">The "Stage as a Street" International Theater Festival, Resita, will open its gates on Sunday, February 25, at the Cultural Palace in Resita, and will continue with performances every night at the Trade Union House of Culture and at Cultural Palace, for 8 days, until Sunday, March 4th. According to the organizers, in scale and value, the festival is the most important cultural event in Reşiţa in 2018.</string>
+
+    <!--Top Places Locations-->
+    <string name="pl1_title">Grădina Zoologică din Reşiţa</string>
+    <string name="pl1_desc">The Zoological Garden of Resita was founded in 1955 at the initiative of Prof. Ioan Crişan, but officially it was inaugurated ten years later in 1965. Among the largest and most beautiful in the country. Animals that live well on 5.6 hectares</string>
+
+    <string name="pl2_title">Centrul Civic</string>
+    <string name="pl2_desc">In 1898, the town center on Bârzava was surrounded by thick forest. Although it seems wild, the atmosphere invoked by the photos is a relaxed one, with fresh air and cheerful people. Even now the forest is still present in the center, the image of the hill with its coat still being the green spot in the middle of Resita.</string>
+
+    <string name="pl3_title">Muncitoresc</string>
+    <string name="pl3_desc">The Worker\'s Zone hosts objectives of great patrimony for the city. The former communist jail, the Concrete School, the former Romanian Casino (today private home) are just a few of the objectives in which "the Roussian history" must "bite".</string>
+
+</resources>
